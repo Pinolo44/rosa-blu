@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Output compilazione
+out/
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+
+# Salvataggi di gioco generati in locale
+saves/
